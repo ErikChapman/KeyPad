@@ -16,9 +16,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Schematic-Available-2ea44f?style=flat-square" alt="Schematic available">
-  <img src="https://img.shields.io/badge/PCB-In%20Progress-f0ad4e?style=flat-square" alt="PCB in progress">
-  <img src="https://img.shields.io/badge/Firmware-Not%20Available-6e7781?style=flat-square" alt="Firmware not available">
-  <img src="https://img.shields.io/badge/3D%20Model-Partial-8250df?style=flat-square" alt="Partial 3D model">
+  <img src="https://img.shields.io/badge/PCB-Not%20Available-d73a49?style=flat-square" alt="PCB not available">
+  <img src="https://img.shields.io/badge/Firmware-Not%20Available-d73a49?style=flat-square" alt="Firmware not available">
+  <img src="https://img.shields.io/badge/3D%20Model-Not%20Available-d73a49?style=flat-square" alt="3D model not available">
 </p>
 
 <strong>Схемотехника · печатная плата · прошивка · 3D-модель</strong>
@@ -56,11 +56,11 @@
 ## 🚦 Статус проекта
 
 | Раздел | Статус |
-|:--|:--|
-| 🧩 **Схема** | Основной файл схемы и PDF-экспорт присутствуют в репозитории |
-| 🟩 **Печатная плата** | Проектная структура и материалы PCB присутствуют; финальная плата не подтверждена |
-| 💾 **Прошивка** | В репозитории пока не представлена |
-| 🧊 **3D-модель** | Присутствуют 3D-модели отдельных компонентов; финальная модель устройства не представлена |
+|:--|:--:|
+| 🧩 **Схема** | ✅ Есть в репозитории |
+| 🟩 **Печатная плата** | ❌ Не представлена |
+| 💾 **Прошивка** | ❌ Не представлена |
+| 🧊 **3D-модель** | ❌ Не представлена |
 
 ## 🛠️ Как открыть проект
 
@@ -78,7 +78,7 @@
 ## ⚠️ Важные замечания
 
 - Прошивка и исходный код программного обеспечения в репозитории не представлены.
-- Наличие проектных материалов печатной платы не означает подтверждённую готовность к производству.
+- Наличие отдельных инженерных файлов не означает подтверждённую готовность к производству.
 - Финальный BOM, электрические параметры и совместимость компонентов необходимо проверять непосредственно в Altium Designer.
 - Концепт, схема и будущая механическая конструкция могут изменяться независимо друг от друга.
 
