@@ -10,13 +10,13 @@ KeyPad — это аппаратный проект компактного кл�
 
 ## Концепт
 
-![Концепт устройства](docs/concept.svg)
+![Концепт устройства](9c37cdee-f2ca-4eac-ad2d-44dde091929c.png)
 
 ## Документация и схемы
 
 - [Открыть KeyPad.pdf](KeyPad.pdf)
 
-![Превью схемы](docs/schematic-preview.png)
+![Превью схемы](Scheme.png)
 
 - [Открыть MainLogic.pdf](MainLogic.pdf)
 
