@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">KeyPad concept</title>
+  <desc id="desc">Concept illustration of a compact keypad with display and rotary controls.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#111820"/><stop offset="1" stop-color="#05080d"/></linearGradient>
+    <linearGradient id="case" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#394653"/><stop offset="0.5" stop-color="#111820"/><stop offset="1" stop-color="#26313c"/></linearGradient>
+    <linearGradient id="key" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#536474"/><stop offset="1" stop-color="#18212b"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".65"/></filter>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <text x="55" y="80" fill="#e6f2ff" font-family="Arial, sans-serif" font-size="48" font-weight="700">SOLAR KEYPAD</text>
+  <text x="58" y="118" fill="#9eb1c5" font-family="Arial, sans-serif" font-size="20">Визуальный концепт устройства</text>
+  <g filter="url(#shadow)" transform="translate(205 170) rotate(-7 350 220)">
+    <rect x="0" y="0" width="700" height="440" rx="38" fill="url(#case)" stroke="#8494a3" stroke-opacity=".5" stroke-width="4"/>
+    <rect x="24" y="24" width="652" height="392" rx="27" fill="#111923" stroke="#53677a" stroke-opacity=".65" stroke-width="3"/>
+    <rect x="65" y="62" width="245" height="125" rx="14" fill="#061018" stroke="#6cb8e8" stroke-opacity=".7" stroke-width="3"/>
+    <text x="88" y="108" fill="#d9f0ff" font-family="Arial, sans-serif" font-size="22">Battery</text>
+    <text x="88" y="158" fill="#a7dbff" font-family="Arial, sans-serif" font-size="43" font-weight="700">85%</text>
+    <rect x="405" y="54" width="80" height="80" rx="40" fill="#aebdca" stroke="#e6f2ff" stroke-width="4"/>
+    <rect x="510" y="43" width="105" height="105" rx="52" fill="#9eacb8" stroke="#e6f2ff" stroke-width="4"/>
+    <g fill="url(#key)" stroke="#8ba5ba" stroke-opacity=".45" stroke-width="3">
+      <rect x="65" y="230" width="105" height="76" rx="16"/><rect x="190" y="230" width="105" height="76" rx="16"/><rect x="315" y="230" width="105" height="76" rx="16"/><rect x="440" y="230" width="105" height="76" rx="16"/>
+      <rect x="65" y="325" width="105" height="76" rx="16"/><rect x="190" y="325" width="105" height="76" rx="16"/><rect x="315" y="325" width="105" height="76" rx="16"/><rect x="440" y="325" width="105" height="76" rx="16"/>
+    </g>
+    <g fill="#bfe7ff" font-family="Arial, sans-serif" font-size="28" text-anchor="middle"><text x="117" y="278">1</text><text x="242" y="278">2</text><text x="367" y="278">3</text><text x="492" y="278">4</text><text x="117" y="373">5</text><text x="242" y="373">6</text><text x="367" y="373">7</text><text x="492" y="373">8</text></g>
+  </g>
+</svg>
