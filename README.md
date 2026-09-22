@@ -4,9 +4,6 @@
 
 ### Аппаратный макропад с беспроводной логикой управления
 
-<p>
-  <img src="9c37cdee-f2ca-4eac-ad2d-44dde091929c.png" alt="Концепт KeyPad" width="720">
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Project-Hardware-1f6feb?style=for-the-badge&logo=github" alt="Hardware project">
