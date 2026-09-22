@@ -1,6 +1,8 @@
 <div align="center">
 
-[🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md)
+### 🌐 Language / Язык
+
+[🇷🇺 Русский](README.md) · **🇬🇧 English**
 
 # ⌨️ KeyPad
 
