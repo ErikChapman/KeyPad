@@ -2,7 +2,7 @@
 
 ### 🌐 Language / Язык
 
-[🇷🇺 Русский](README.md) · **🇬🇧 English**
+[🇷🇺 Русский](README.md)
 
 # ⌨️ KeyPad
 
