@@ -1,7 +1,10 @@
 <div align="center">
 
-[🇷🇺 Русский](README.md) · [🇬🇧 English](README.en.md)
+### 🌐 Язык / Language
 
+**🇷🇺 Русский** · [🇬🇧 English](README.en.md)
+
+</div>
 # ⌨️ KeyPad
 
 ### Аппаратный макропад с беспроводной логикой управления
